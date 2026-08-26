@@ -47,4 +47,4 @@ Users are able to:
 
 ## Live demo
 
--
+- https://fatemehjalilian.github.io/rating-component/
